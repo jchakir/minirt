@@ -22,6 +22,6 @@ git clone https://github.com/houssambourkane/42cursus-minirt.git minirt && cd mi
 
 ### Examples
 
-![alt text](https://github.com/jchakir/minirt/blob/main/Screen%20Shot%202022-07-13%20at%2010.59.02.png?raw=true)
-![alt text](https://github.com/jchakir/minirt/blob/main/Screen%20Shot%202022-07-13%20at%2010.59.38.png?raw=true)
-![alt text](https://github.com/jchakir/minirt/blob/main/Screen%20Shot%202022-07-13%20at%2010.59.57.png?raw=true)
+<img src="https://github.com/jchakir/minirt/blob/main/Screen%20Shot%202022-07-13%20at%2010.59.02.png?raw=true" />
+<img src="https://github.com/jchakir/minirt/blob/main/Screen%20Shot%202022-07-13%20at%2010.59.38.png?raw=true" />
+<img src="https://github.com/jchakir/minirt/blob/main/Screen%20Shot%202022-07-13%20at%2010.59.57.png?raw=true" />
